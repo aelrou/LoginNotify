@@ -1,2 +1,2 @@
 # LoginNotify
-PowerShell script sends login notifications to Google Meet Space API endpoint
+PowerShell script sends login notifications to Google Chat Space API endpoint
